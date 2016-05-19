@@ -1,5 +1,5 @@
 # git-training
-This repository has different branches for showcasing git's branch management capabilities.
+++This repository has different branches for showcasing git's branch management capabilities.
 
 ## Basic commands and workflow
 
