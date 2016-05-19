@@ -1,0 +1,3 @@
+def Test
+	def func1
+		'Hallo from the dark side!'
