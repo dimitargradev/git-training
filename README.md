@@ -62,3 +62,11 @@ Okay, that was easy, eh.
   + Squash the fixups.
   + Split commit **675652b** into two commits. File1.txt and File2.txt must go into the first one. File3.txt must go into the second one.
   + Commit **b49ab90** must go before commit **675652b**.
+  
+Blaha blah blahfeature 34 updated readme file
+Blaha blah blah
+
+q elate pilenca pri batko
+
+confilct
+lyzhaa eeeeeeeeeeeeeee
